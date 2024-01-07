@@ -7,3 +7,36 @@
     font-family: 'Inter', sans-serif;
     font-family: 'Merriweather', serif;
   }
+
+  .container{
+  background-image: url('../resources/banner-image.png');
+  background-size: cover;
+  max-width: 1320px;
+  width: 90%;
+  height: 600px;
+  margin: 40px auto;
+  border-radius: 16px;
+  }
+
+
+.heading-title{
+color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding: 150px 531px 0 530px;
+}
+
+.banner-heading-title{
+ color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px;
+padding: 42px 344px 177px 344px;
+}
